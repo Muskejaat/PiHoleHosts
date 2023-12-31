@@ -3,7 +3,11 @@
 # ----------------------------------------------------------
 
 # FACEBOOK
+0.0.0.0 scontent-jnb2-1.xx.fbcdn.net
+0.0.0.0 netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 cdn-fallback.fbsbx.com
+0.0.0.0 5D0572D0-5146-41D2-9010-A8572CDB7D6F-netseer-ipaddr-assoc.xz.fb
+0.0.0.0 A863AE7C-D439-4F3D-B36B-C40B9978EA02-netseer-ipaddr-assoc.xz.fb
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
